@@ -19,7 +19,7 @@ The program converts temperature values between:
 - Takes temperature value and unit as input
 - Converts the temperature into the other two units
 - Beginner-friendly and easy to understand
-- Written in pure C (no Python)
+- Written in pure C 
 
 ---
 
